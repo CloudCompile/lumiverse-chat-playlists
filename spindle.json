@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "name": "Chat Playlists",
+  "identifier": "chat_playlists",
+  "author": "Lumiverse",
+  "github": "https://github.com/CloudCompile/Lumiverse",
+  "homepage": "https://github.com/CloudCompile/Lumiverse/tree/staging/experiments/chat-playlists",
+  "description": "Build ordered playlists of chats and walk through them: start a playlist, send your message, and the app moves you to the next chat automatically.",
+  "permissions": [],
+  "entry_frontend": "dist/frontend.js",
+  "minimum_lumiverse_version": "1.3.0"
+}
